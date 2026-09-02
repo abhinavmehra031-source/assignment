@@ -2,6 +2,10 @@
 
 A full-stack enterprise landing page recreation built as a frontend/full-stack assessment. The project focuses on responsive UI, interactive sections, animations, and a lead-enquiry flow.
 
+## 🌐 Live Demo
+
+**[View Live Project](https://assignment-delta-rust-39.vercel.app/)**
+
 ## ✨ Features
 
 - Responsive enterprise landing page
@@ -68,7 +72,7 @@ assignment/
 
 ## 🌐 Deployment
 
-The project is designed for deployment on Vercel. Import the GitHub repository, keep the Next.js preset, and deploy.
+The project is deployed on Vercel and can also be deployed by importing the GitHub repository with the Next.js preset.
 
 ## 🤖 AI-Assisted Development
 
